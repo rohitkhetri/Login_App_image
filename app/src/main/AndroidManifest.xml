@@ -12,8 +12,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Login_App_image"
         tools:targetApi="31">
-        <activity android:name=".imagesactivity"/>
         <activity android:name=".HomeActivity"/>
+        <activity android:name=".imagesactivity"/>
         <activity
             android:name=".MainActivity"
             android:exported="true">
